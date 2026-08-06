@@ -10,14 +10,22 @@
 
 ###
 
+<h3 align="left">Hi, I'm Karan Kumar 👋</h3>
+
 <p align="left">
-✨ Passionate about building and breaking code since my time at AKGEC, Ghaziabad<br>
-🎓 Pursuing B.Tech in Information Technology<br>
-📚 Currently diving deep into the MERN stack for full-stack web development<br>
-🧠 Actively exploring cutting-edge technologies like Artificial Intelligence and Machine Learning<br>
-💻 I wear many hats: coder, developer, and UI/UX enthusiast<br>
-🎯 Aspiring to become a Software Development Engineer at Google<br>
-🎲 Fun fact: I love solving problems most people avoid — it’s my kind of puzzle
+Full Stack Developer specializing in the MERN stack with a strong interest in scalable backend systems, AI-powered applications, and modern web technologies.
+</p>
+
+<p align="left">
+Currently pursuing a B.Tech in Information Technology at Ajay Kumar Garg Engineering College, where I'm building production-ready projects while expanding my expertise in AI, automation, Docker, CI/CD, and system design.
+</p>
+
+<p align="left">
+I enjoy solving real-world problems through software, continuously learning new technologies, and writing clean, maintainable code.
+</p>
+
+<p align="left">
+<strong>Current Focus:</strong> Full Stack Development • AI Agents • Docker • n8n Automation • System Design • DSA
 </p>
 
 
