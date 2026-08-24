@@ -132,7 +132,10 @@ I enjoy solving real-world problems through software, continuously learning new 
 <div align="left">
     <img src="https://github.com/thunderclient.png" height="40" alt="Thunder Client logo" />
   <img width="12" />
-   <img src="https://dl.svgcdn.com/png/logos/airtable-800.png" height="40" alt="Airtable logo" />
+<img src="https://dl.svgcdn.com/png/logos/airtable-800.png"
+     height="40"
+     alt="Airtable logo"
+     style="background-color: #ffffff; padding: 5px; border-radius: 6px;" />
 
 </div>
 
@@ -140,7 +143,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 <h3 align="left">AI & Research</h3>
 
 <div align="left">
-  <img src="https://dashboardicons.com/icons/notebook-lm/notebook-lm-dark.png" height="40" alt="NotebookLM logo" />
+<img src="https://dashboardicons.com/icons/notebook-lm/notebook-lm-dark.png" height="40" alt="NotebookLM logo" />
 </div>
 
 <!-- ==================== AUTOMATION ==================== -->
