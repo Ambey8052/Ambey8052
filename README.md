@@ -63,7 +63,10 @@ I enjoy solving real-world problems through software, continuously learning new 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express.js logo" style="background-color: #f0f0f0; padding: 4px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+     height="40"
+     alt="Express.js logo"
+     style="background-color: #ffffff; padding: 5px; border-radius: 6px;" />
 </div>
 
 <!-- ==================== DATABASES & DATA STORES ==================== -->
@@ -129,7 +132,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 <div align="left">
     <img src="https://github.com/thunderclient.png" height="40" alt="Thunder Client logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/airtable.svg" height="40" alt="Airtable logo" />
+   <img src="https://dl.svgcdn.com/png/logos/airtable-800.png" height="40" alt="Airtable logo" />
 
 </div>
 
@@ -137,12 +140,14 @@ I enjoy solving real-world problems through software, continuously learning new 
 <h3 align="left">AI & Research</h3>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/notebooklm" height="40" alt="NotebookLM logo" />
+  <img src="https://dashboardicons.com/icons/notebook-lm/notebook-lm-dark.png" height="40" alt="NotebookLM logo" />
 </div>
 
 <!-- ==================== AUTOMATION ==================== -->
 <h3 align="left">Automation</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
+     height="40"
+     alt="n8n logo" />
 </div>
