@@ -101,16 +101,47 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="Ubuntu logo" />
 </div>
 
+<!-- ==================== IDEs & EDITORS ==================== -->
+<h3 align="left">IDEs & Editors</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecolab" height="40" alt="Antigravity IDE logo" />
+</div>
+
+<!-- ==================== NOTEBOOKS & DATA SCIENCE ==================== -->
+<h3 align="left">Notebooks & Data Science</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
+</div>
+
+<!-- ==================== API & DEVELOPMENT TOOLS ==================== -->
+<h3 align="left">API & Development Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/thunderclient" height="40" alt="Thunder Client logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/airtable" height="40" alt="Airtable logo" />
+</div>
+
+<!-- ==================== AI & RESEARCH ==================== -->
+<h3 align="left">AI & Research</h3>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/notebooklm" height="40" alt="NotebookLM logo" />
+</div>
+
 <!-- ==================== AUTOMATION ==================== -->
 <h3 align="left">Automation</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
-</div>
-
-<!-- ==================== PYTHON ECOSYSTEM ==================== -->
-<h3 align="left">Python Ecosystem</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
 </div>
