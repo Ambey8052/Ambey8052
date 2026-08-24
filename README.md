@@ -132,7 +132,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 <div align="left">
     <img src="https://github.com/thunderclient.png" height="40" alt="Thunder Client logo" />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/airtable.svg" height="40" alt="Airtable logo" />
+<img src="https://github.com/airtable.png" height="40" alt="Airtable logo" />
 <img width="12" />
 
 </div>
