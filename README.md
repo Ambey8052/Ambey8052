@@ -127,7 +127,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 <h3 align="left">API & Development Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/thunderclient" height="40" alt="Thunder Client logo" />
+    <img src="./assets/thunder-client.svg" height="40" alt="Thunder Client logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/airtable" height="40" alt="Airtable logo" />
 </div>
