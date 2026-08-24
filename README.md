@@ -25,6 +25,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 
 <h2 align="left">I code with</h2>
 
+<!-- ==================== LANGUAGES ==================== -->
 <h3 align="left">Languages</h3>
 
 <div align="left">
@@ -39,6 +40,7 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
+<!-- ==================== FRONTEND ==================== -->
 <h3 align="left">Frontend</h3>
 
 <div align="left">
@@ -55,6 +57,7 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
 
+<!-- ==================== BACKEND ==================== -->
 <h3 align="left">Backend</h3>
 
 <div align="left">
@@ -63,14 +66,20 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express.js logo" style="background-color: #f0f0f0; padding: 4px;" />
 </div>
 
-<h3 align="left">Databases</h3>
+<!-- ==================== DATABASES & DATA STORES ==================== -->
+<h3 align="left">Databases & Data Stores</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
 </div>
 
+<!-- ==================== MOBILE DEVELOPMENT ==================== -->
 <h3 align="left">Mobile Development</h3>
 
 <div align="left">
@@ -79,6 +88,7 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
 </div>
 
+<!-- ==================== DEVOPS & TOOLS ==================== -->
 <h3 align="left">DevOps & Tools</h3>
 
 <div align="left">
@@ -91,12 +101,14 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="Ubuntu logo" />
 </div>
 
+<!-- ==================== AUTOMATION ==================== -->
 <h3 align="left">Automation</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
 </div>
 
+<!-- ==================== PYTHON ECOSYSTEM ==================== -->
 <h3 align="left">Python Ecosystem</h3>
 
 <div align="left">
