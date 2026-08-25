@@ -6,11 +6,11 @@
 <h3 align="left">Hi, I'm Karan Kumar 👋</h3>
 
 <p align="left">
-Full Stack Developer specializing in the MERN stack with a strong interest in scalable backend systems, AI-powered applications, and modern web technologies.
+Full Stack Developer specializing in the MERN stack with a strong interest in scalable backend systems, AI-powered applications, DevOps and modern web technologies.
 </p>
 
 <p align="left">
-Currently pursuing a B.Tech in Information Technology at Ajay Kumar Garg Engineering College, where I'm building production-ready projects while expanding my expertise in AI, automation, Docker, CI/CD, and system design.
+Currently pursuing a B.Tech in Information Technology at Ajay Kumar Garg Engineering College, where I'm building production-ready projects while expanding my expertise in AI, automation, DevOps and system design.
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 </p>
 
 <p align="left">
-<strong>Current Focus:</strong> Full Stack Development • AI Agents • Docker • n8n Automation • System Design • DSA
+<strong>Current Focus:</strong> Full Stack Development • AI Agents • DevOps • n8n Automation • System Design • DSA
 </p>
 
 
