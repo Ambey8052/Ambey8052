@@ -100,6 +100,7 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" height="40" alt="Render logo" />
 </div>
 
+
 <!-- ==================== DEVOPS & TOOLS ==================== -->
 <h3 align="left">DevOps & Tools</h3>
 
