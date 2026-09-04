@@ -97,7 +97,7 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img width="12" />
   <img src="https://github.com/railwayapp.png" height="40" alt="Railway logo" />
   <img width="12" />
-  <img src="https://github.com/render.png" height="40" alt="Render logo" />
+  <img src="https://github.com/render.png](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Render logo" />
 </div>
 
 
