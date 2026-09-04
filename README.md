@@ -63,9 +63,12 @@ I enjoy solving real-world problems through software, continuously learning new 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
- <img src="https://github.com/expressjs.png" height="40" alt="Express.js logo" />
-<img width="12" />
+  <img src="https://github.com/expressjs.png" height="40" alt="Express.js logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase logo" />
+  <img width="12" />
 </div>
+
 
 <!-- ==================== DATABASES & DATA STORES ==================== -->
 <h3 align="left">Databases & Data Stores</h3>
