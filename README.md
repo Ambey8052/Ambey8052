@@ -89,6 +89,17 @@ I enjoy solving real-world problems through software, continuously learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
 </div>
 
+<!-- ==================== DEPLOYMENT TOOLS ==================== -->
+<h3 align="left">Deployment Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" height="40" alt="Railway logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" height="40" alt="Render logo" />
+</div>
+
 <!-- ==================== DEVOPS & TOOLS ==================== -->
 <h3 align="left">DevOps & Tools</h3>
 
