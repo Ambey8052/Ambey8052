@@ -1,5 +1,23 @@
+<div align="center">
 
-<h1 align="left">About me</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1:0D47A1,50:1976D2,150:64B5F6&height=180&section=header&text=Karan%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeOut" width="100%" alt="Karan Kumar" />
+
+### Software Developer | MERN , DevOps & Ai Automations
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-kumar-17736632a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambey8052)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/8jsxNU1VjO/)
+
+</div>
+
+## About
+
+Full Stack Developer specializing in the MERN stack with a strong interest in scalable backend systems, AI-powered applications, DevOps and modern web technologies. Currently pursuing a B.Tech in Information Technology at Ajay Kumar Garg Engineering College, where I'm building production-ready projects while expanding my expertise in AI, automation, DevOps and system design.
+
+<p align="left">
+<strong>Current Focus : </strong> Full Stack Development • AI Agents • DevOps • n8n Automation • System Design • DSA
+</p> 
+<!-- <h1 align="left">About me</h1>
 
 ###
 
@@ -19,7 +37,7 @@ I enjoy solving real-world problems through software, continuously learning new 
 
 <p align="left">
 <strong>Current Focus:</strong> Full Stack Development • AI Agents • DevOps • n8n Automation • System Design • DSA
-</p>
+</p> -->
 
 
 
@@ -167,3 +185,4 @@ I enjoy solving real-world problems through software, continuously learning new 
      height="40"
      alt="n8n logo" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1:0D47A1,50:1976D2,150:64B5F6&height=120&section=footer" width="100%" alt="" />
