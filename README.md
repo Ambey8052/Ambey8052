@@ -10,7 +10,7 @@
 
 </div>
 
-## About
+## About 
 
 Full Stack Developer specializing in the MERN stack with a strong interest in scalable backend systems, AI-powered applications, DevOps and modern web technologies. Currently pursuing a B.Tech in Information Technology at Ajay Kumar Garg Engineering College, where I'm building production-ready projects while expanding my expertise in AI, automation, DevOps and system design.
 
